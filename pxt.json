@@ -1,0 +1,19 @@
+{
+    "name": "i",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
